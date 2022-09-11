@@ -3,14 +3,14 @@
   I'm Anggi.
 </h1>
 
- <section align="center">
+ <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
-</section>
+</div>
 
-<h3 align="center"> Software Engineer from Indonesia<h3>
+<h3 align="center"> Software Developer from Indonesia<h3>
   <h5 align="center">Prior experience in Logistics & Supply Chain </h5>
 
-<section align="center">
+<div align="center">
   <a href="https://id.linkedin.com/in/elisabeth-anggia-ariestyarini-49966470">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -20,7 +20,7 @@
   <a href="https://mobile.twitter.com/elisabethanggia">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</section>
+</div>
 
 ## :hammer_and_wrench: Languages and Tools :
 <section>
